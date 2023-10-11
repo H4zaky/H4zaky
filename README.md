@@ -2,6 +2,8 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/H4zaky/H4zaky/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
+<p align="center">Hi! 👋🏻 I'm Carlos Leite</p>&nbsp;
+
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate about discovering new stuff </strong> and using them to create high-quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
