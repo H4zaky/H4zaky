@@ -2,7 +2,7 @@
 <h1 align="center">Hi! 👋🏼 I'm Carlos Leite</h1>
 
 <h3 align="center">Computer Science & Engineering Student</h3>
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate about discovering new stuff </strong> and using them to create high-quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=H4zaky&theme=radical&mode=weekly" />
@@ -12,7 +12,7 @@
  &nbsp;
  &nbsp;
 
-
+ 
 
 ## My Skills
 
