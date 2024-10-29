@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi! 👋🏼 I'm Carlos Leite</h1>
 
-<h3 align="center">Computer Science & Engineering Student</h3>
+<h3 align="center">Computer Science & Engineering</h3>
 <p align="center">AI entushiastic ❤️ solving challenges.<br></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
